@@ -30,6 +30,10 @@ array k
          eğer ilk eleman büyük ise ikinci elemanı üçüncü eleman ile karşışaltır.
              üçüncü büyük ise 
          eğer ikinci eleman büyükse üçüncü ile birinciyi karşıaştır.???????????????????????????
+
+
+
+         
             
     
 
@@ -57,5 +61,8 @@ print(min)
 # In[ ]:
 
 
-Python İle Programlamaya Giriş pg145
+# Python İle Programlamaya Giriş pg145
+
+
+#git deneme
 
